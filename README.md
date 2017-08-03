@@ -1,6 +1,6 @@
-# Steps Food Guide
+# Steps Bills Guide
 
-The Steps Food Guide is an open sourced resource for anyone to use. This resource provides a personalized experience for low-income people to explore actions they can take if they're struggling with paying certain bills. The guide can be viewed at https://ideoorg.github.io/steps-guide-bills/.
+The Steps Bills Guide is an open sourced resource for anyone to use. This resource provides a personalized experience for low-income people to explore actions they can take if they're struggling with paying certain bills. The guide can be viewed at https://ideoorg.github.io/steps-guide-bills/.
 
 ## Getting Started
 
